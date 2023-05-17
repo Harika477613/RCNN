@@ -1,5 +1,5 @@
 # RCNN
-                                                                  Object Detection using RCNN
+                                                      Object Detection using RCNN
 This project provides object identification using the RCNN (Region-based Convolutional Neural Network) method. It requires updating the Faster R-CNN architecture to the RCNN architecture. The torchvision library is used for model training and assessment.
 
 Problem Solving
